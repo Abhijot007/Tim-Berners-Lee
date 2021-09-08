@@ -1,0 +1,88 @@
+#img {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+.div1 {
+  width: 70px;
+  height: 5px;
+  background-color: white;
+  margin: 8px auto;
+}
+
+#home {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #9d1cbd;
+  z-index: 9;
+}
+
+#h1 {
+  color: white;
+  font-family: italic;
+}
+#h2 {
+  color: white;
+  font-family: italic;
+}
+
+.div9 h3 {
+  display: inline;
+}
+
+.div9 a {
+  color: #560027;
+}
+.my_nav_bar {
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+}
+#pra {
+  font-family: "Cinzel Decorative";
+  font-weight: 700;
+  color: white;
+}
+#hh {
+  color: white;
+}
+
+#home_2 {
+  background-color: #431b4d;
+  margin-top: -90px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#video {
+  background-color: #9d1cbd;
+  color: white;
+}
+#works {
+  background-color: #9d1cbd;
+  color: white;
+}
+#writings {
+  background-color: #9d1cbd;
+  color: white;
+}
+#contacts {
+  background-color: #9d1cbd;
+  color: white;
+}
+.fifa {
+  color: #3986C4;
+}
+.h4 {
+  color: white;
+}
+.fufa {
+  color: white;
+}
